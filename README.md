@@ -42,16 +42,14 @@ Welcome to my GitHub profile. I enjoy building software across the stack—from 
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mei-tate&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mei-tate&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mei-tate&layout=compact&theme=github_dark&hide_border=true)
-
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mei-tate&layout=compact&theme=github_dark)
 
 ---
 
 ## 📫 Contact
-- Email: [your email]
+- Email: meitate@comcast.net
 - LinkedIn: [Here](https://www.linkedin.com/in/mei-tate-370352404/)
-- Portfolio: [optional]
 
 ---
