@@ -49,7 +49,13 @@ Welcome to my GitHub profile. I enjoy building software across the stack—from 
 ---
 
 ## 📫 Contact
-- Email: meitate@comcast.net
-- LinkedIn: [Here](https://www.linkedin.com/in/mei-tate-370352404/)
+<div align="center">
+  <a href="mailto:meitate@comcast.net">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=minutemailer&logoColor=white" />
+  </a>
 
+  <a href="https://www.linkedin.com/in/mei-tate-370352404/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 ---
