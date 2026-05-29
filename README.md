@@ -1,13 +1,17 @@
-# I'm Mei Tate
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Mei+Tate!;" />
+</h1>
 
-Welcome to my GitHub profile. I enjoy building software across the stack—from low-level systems in C/C++ and assembly to full-stack web apps with the MERN stack.
+### I am a software engineer student that works with low-level systems in C/C++ and assembly to full-stack web apps with the MERN stack.
 
+- I currently am getting my **Bachlors of Science in Computer Science** from **[OSU](https://oregonstate.edu/)**.
+- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/mei-tate/mei-tate/issues)**.
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Languages and Tools
 
-### 🚀 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -18,7 +22,7 @@ Welcome to my GitHub profile. I enjoy building software across the stack—from 
 
 ---
 
-### 🌐 Full-Stack (MERN)
+### Full-Stack (MERN)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -26,7 +30,7 @@ Welcome to my GitHub profile. I enjoy building software across the stack—from 
 
 ---
 
-### 🧠 Systems & Low-Level
+### Systems & Low-Level
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![x86 Assembly](https://img.shields.io/badge/x86-Assembly-lightgrey?style=for-the-badge)
@@ -34,17 +38,23 @@ Welcome to my GitHub profile. I enjoy building software across the stack—from 
 
 ---
 
-### 🛠️ Tools & Design
+### Tools & Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## ⚡️ Stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mei-tate&show_icons=true&theme=github_dark)
+<br>
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mei-tate&layout=compact&theme=github_dark)
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mei-tate&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Mei's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mei-tate&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Mei's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=mei-tate&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Mei's Most Used Languages" />
+</div>
+
+<hr>
 
 ---
 
