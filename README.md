@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Mei+Tate!;" />
 </h1>
 
-### I am a software engineer student that works with low-level systems in C/C++ and assembly to full-stack web apps with the MERN stack.
+### I am a software engineer student who works with low-level systems in C/C++ and assembly to full-stack web apps with the MERN stack.
 
 - I currently am getting my **Bachlors of Science in Computer Science** from **[OSU](https://oregonstate.edu/)**.
 - 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/mei-tate/mei-tate/issues)**.
@@ -46,17 +46,10 @@
 
 ## ⚡️ Stats
 
-<br>
-
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mei-tate&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Mei's GitHub Stats" />
-
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mei-tate&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Mei's" />
-
-<img width="325" src="https://github-readme-stats-kappa-woad.vercel.app/api/top-langs/?username=mei-tate&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&locale=en" alt="Mei's Most Used Languages" />
+  
 </div>
-
-<hr>
 
 ---
 
