@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Mei+Tate!;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Mei+Tate!;" />
 </h1>
 
-### I am a software engineer student that works with low-level systems in C/C++ and assembly to full-stack web apps with the MERN stack.
+### I am a software engineering student that works with low-level systems in C/C++ and assembly to full-stack web apps with the MERN stack.
 
-- I currently am getting my **Bachlors of Science in Computer Science** from **[OSU](https://oregonstate.edu/)**.
+- I am currently getting my **Bachelor of Science in Computer Science** from **[OSU](https://oregonstate.edu/)**.
 - 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/mei-tate/mei-tate/issues)**.
 
 ---
@@ -33,8 +33,8 @@
 ### Systems & Low-Level
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![x86 Assembly](https://img.shields.io/badge/x86-Assembly-lightgrey?style=for-the-badge)
-![MIPS](https://img.shields.io/badge/MIPS-Assembly-blue?style=for-the-badge)
+![x86 Assembly](https://img.shields.io/badge/x86_Assembly-lightgrey?style=for-the-badge)
+![MIPS](https://img.shields.io/badge/MIPS_Assembly-blue?style=for-the-badge)
 
 ---
 
@@ -46,21 +46,20 @@
 
 ## ⚡️ Stats
 
-<br>
+<div align="center">
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mei-tate&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Mei's GitHub Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=mei-tate&theme=transparent&count_private=true&show_icons=true&locale=en" />
 
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mei-tate&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Mei's" />
+  <img width="390" src="https://streak-stats.demolab.com?user=mei-tate&theme=transparent&border_radius=10" />
 
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=mei-tate&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Mei's Most Used Languages" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=mei-tate&theme=transparent&layout=compact&langs_count=8&hide=css&locale=en" />
+
 </div>
-
-<hr>
 
 ---
 
 ## 📫 Contact
+
 <div align="center">
   <a href="mailto:meitate@comcast.net">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=minutemailer&logoColor=white" />
@@ -77,11 +76,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{mei-tate}/{mei-tate}/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{mei-tate}/{mei-tate}/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/{mei-tate}/{mei-tate}/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mei-tate/mei-tate/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mei-tate/mei-tate/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mei-tate/mei-tate/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-<hr>
-
