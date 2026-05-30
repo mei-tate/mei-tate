@@ -53,14 +53,14 @@
 
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mei-tate&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Mei's" />
 
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=mei-tate&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Mei's Most Used Languages" />
+<img width="325" src="https://github-readme-stats-kappa-woad.vercel.app/api/top-langs/?username=mei-tate&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&locale=en" alt="Mei's Most Used Languages" />
 </div>
 
 <hr>
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 <div align="center">
   <a href="mailto:meitate@comcast.net">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=minutemailer&logoColor=white" />
