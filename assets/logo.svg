@@ -1,0 +1,56 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="300" height="300" viewBox="0 0 300 300">
+
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#63DCC6"/>
+      <stop offset="100%" stop-color="#39FF14"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="300" height="300" fill="#0B0F14"/>
+
+  <g fill="none" stroke="url(#neon)"
+     stroke-width="3" stroke-linecap="round"
+     stroke-linejoin="round" filter="url(#glow)">
+
+    <path d="M55 155 V65 L115 125 L175 65 V155"/>
+    <path d="M145 65 H245"/>
+    <path d="M195 65 V155"/>
+
+    <circle cx="55" cy="65" r="4" fill="#63DCC6"/>
+    <circle cx="175" cy="65" r="4" fill="#63DCC6"/>
+    <circle cx="245" cy="65" r="4" fill="#39FF14"/>
+  </g>
+
+  <text x="150" y="210"
+        text-anchor="middle"
+        fill="#63DCC6"
+        font-family="Orbitron, sans-serif"
+        font-size="25"
+        letter-spacing="6">
+    MEI TATE
+  </text>
+
+  <path d="M75 230 H225"
+        stroke="#63DCC6"
+        opacity="0.5"/>
+
+  <text x="150" y="255"
+        text-anchor="middle"
+        fill="#8293A5"
+        font-family="monospace"
+        font-size="10"
+        letter-spacing="4">
+    ENGINEER / DEVELOPER
+  </text>
+</svg>
