@@ -145,7 +145,7 @@
 
 <!-- ==================== FOOTER ==================== -->
 <img
-  src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0F14,50:123C3B,100:39FF14&height=180&section=header&text=THANKS%20FOR%20DROPING%20BY&fontSize=40&fontColor=63DCC6&fontAlignY=45&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0F14,50:123C3B,100:39FF14&height=180&section=header&text=THANKS%20FOR%20DROPPING%20BY&fontSize=40&fontColor=63DCC6&fontAlignY=45&animation=fadeIn"
 />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:123C3B,100:63DCC6&height=120&section=footer" />
 
