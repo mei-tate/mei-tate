@@ -1,8 +1,21 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Mei+Tate!;" />
-</h1>
+<table width="100%" bgcolor="#0B0F14">
+<tr>
+<td width="72%" valign="middle">
+<p>
+  <font color="#63DCC6">CULTURE&nbsp;&nbsp; / &nbsp;&nbsp;CODE&nbsp;&nbsp; / &nbsp;&nbsp;INNOVATION</font>
+</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Rajdhani&weight=400&size=48&color=63DCC6&background=0B0F14&center=false&vCenter=true&width=650&height=90&duration=3500&pause=1000&repeat=true&lines=Hello+World!+👋;I'm+Mei+Tate!;" />
+<hr />
+<font color="#8293A5">SOFTWARE ENGINEERING&nbsp;&nbsp; / &nbsp;&nbsp;MACHINE LEARNING&nbsp;&nbsp; / &nbsp;&nbsp;SYSTEMS</font>
+</td>
+<td width="28%" align="center" valign="middle">
+<img src="./assets/logo.svg" width="220" />
+</td>
+</tr>
+</table>
 
-### I am a software engineering student. I work with low-level systems in C/C++ and assembly, as well as full-stack web apps with the MERN stack.
+### I am a software engineering student.
+I work with low-level systems in C/C++ and assembly, as well as full-stack web apps with the MERN stack.
 
 - I currently am getting my **Bachlors of Science in Computer Science** from **[OSU](https://oregonstate.edu/)**.
 - 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/mei-tate/mei-tate/issues)**.
